@@ -14,7 +14,6 @@ Projeto utilizada como método avaliativo da disciplina de Programação Web II 
 
     $ git clone https://github.com/diozenio/Calculadora
     $ cd Calculadora
-</br>
 
 # Feito com: 
 
@@ -30,7 +29,6 @@ Projeto utilizada como método avaliativo da disciplina de Programação Web II 
 - [@diozenio](https://www.github.com/diozenio)
 - [@giovanaccorreia](https://www.github.com/giovanaccorreia)
 - [@carolinafernandesgf](https://www.github.com/carolinafernandesgf)
-</br>
 
 # 🔖 Licença
 
